@@ -29,25 +29,6 @@ This project uses the following libraries:
 - React Markdown
 - @google/generative-ai
 
-## API Key
-
-To run this project, you'll need an API key from Google. You can get one for free at [Google AI](https://ai.google.dev/). The free API key comes with some limitations:
-
-- Rate Limit: The free API key allows for up to 60 queries per minute.
-- Data Usage: The input/output data is used to improve Google's products.
-
-## Usage
-
-To use this project:
-
-1. Clone the repository.
-2. Install the dependencies.
-3. Insert your API key.
-4. Run the project.
-
-## License
-
-This project is free to use for educational purposes.
 
 ## Links
 
